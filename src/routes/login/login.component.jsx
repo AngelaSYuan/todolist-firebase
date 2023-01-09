@@ -44,7 +44,8 @@ const Login = () => {
     return (
         <div>
             <div className="welcome">
-                <h1> Welcome! Let's get productive. Sign in to get started. </h1>
+                <h1> Welcome! </h1>
+                <h1> Let's get productive. Sign in to get started.</h1>
                 <br />
             </div>
             <div className="login">
