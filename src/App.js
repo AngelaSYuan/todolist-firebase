@@ -6,6 +6,8 @@ import {React} from 'react';
 
 import {
   BrowserRouter,
+  HashRouter,
+  Switch,
   Routes,
   Route,
 } from 'react-router-dom';
@@ -14,12 +16,12 @@ function App() {
   return (
     <div className="Root">
       <div className="App">
-        <BrowserRouter>
-          <Routes>
+        <HashRouter>
+          <Switch>
             <Route path = "/" element ={<Login />} />
             <Route path = "/home" element ={<ToDoListHome />} />
-          </Routes>
-        </BrowserRouter>
+          </Switch>
+        </HashRouter>
       </div>
     </div>
   );
