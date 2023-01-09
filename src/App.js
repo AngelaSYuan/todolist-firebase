@@ -18,8 +18,8 @@ function App() {
       <div className="App">
         <HashRoute basename={process.env.PUBLIC_URL}>
           <Switch>
-            <Route path = "/" element ={<Login />} />
-            <Route path = "/home" element ={<ToDoListHome />} />
+            <Route path = "/login" component={<Login />} />
+            <Route path = "/home" component={<ToDoListHome />} />
           </Switch>
         </HashRoute>
       </div>
