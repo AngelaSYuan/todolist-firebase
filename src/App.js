@@ -16,12 +16,12 @@ function App() {
   return (
     <div className="Root">
       <div className="App">
-        <HashRouter>
+        <HashRoute basename={process.env.PUBLIC_URL}>
           <Switch>
             <Route path = "/" element ={<Login />} />
             <Route path = "/home" element ={<ToDoListHome />} />
           </Switch>
-        </HashRouter>
+        </HashRoute>
       </div>
     </div>
   );
