@@ -17,8 +17,8 @@ function App() {
       <div className="App">
         <HashRouter>
           {/* <Routes> */}
-            <Route path = "/" element={<Login />} />
-            <Route exact path = "/home" element={<ToDoListHome />} />
+            <Route path = "/todolist-firebase" element={<Login />} />
+            <Route exact path = "/todolist-firebase/home" element={<ToDoListHome />} />
           {/* </Routes> */}
         </HashRouter>
       </div>
