@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "https://angelasyuan.github.io/todolist-firebase/static/css/main.073c9b0a.css",
-    "main.js": "https://angelasyuan.github.io/todolist-firebase/static/js/main.35c17ca5.js",
+    "main.js": "https://angelasyuan.github.io/todolist-firebase/static/js/main.fac5c060.js",
     "static/js/787.b4db6df4.chunk.js": "https://angelasyuan.github.io/todolist-firebase/static/js/787.b4db6df4.chunk.js",
     "index.html": "https://angelasyuan.github.io/todolist-firebase/index.html",
     "main.073c9b0a.css.map": "https://angelasyuan.github.io/todolist-firebase/static/css/main.073c9b0a.css.map",
-    "main.35c17ca5.js.map": "https://angelasyuan.github.io/todolist-firebase/static/js/main.35c17ca5.js.map",
+    "main.fac5c060.js.map": "https://angelasyuan.github.io/todolist-firebase/static/js/main.fac5c060.js.map",
     "787.b4db6df4.chunk.js.map": "https://angelasyuan.github.io/todolist-firebase/static/js/787.b4db6df4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.35c17ca5.js"
+    "static/js/main.fac5c060.js"
   ]
 }
