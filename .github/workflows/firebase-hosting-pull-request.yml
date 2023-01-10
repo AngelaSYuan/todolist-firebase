@@ -14,4 +14,3 @@ jobs:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_HACKPACKS_WEB_FIREBASE }}'
           projectId: hackpacks-web-firebase
-DELETELATER
