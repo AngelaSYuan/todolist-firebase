@@ -1,4 +1,3 @@
-/*landing page, asking users to login*/
 
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";

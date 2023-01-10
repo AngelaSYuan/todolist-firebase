@@ -1,4 +1,3 @@
-/*main page, showing to-do list*/
 import { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 import { auth, getMyToDoList, addToDoItem, deleteToDoItem } from "../../utils/firebase/firebase.utils";
@@ -52,7 +51,6 @@ const ToDoListHome = () => {
                         </thead>
                         <tbody>
                         {(toDoItems) && (toDoItems.map((toDoItem, index) => (
-                            /* the two columns: number count, and item*/
                             <tr key={index}>
                                 <td>{index + 1}</td>
                                 <td>{toDoItem}</td>
