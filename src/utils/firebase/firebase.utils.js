@@ -49,7 +49,6 @@ export const registerWithEmailAndPassword = async (email, password) => {
 
 };
 
-/* returns to-do list of the user signed in*/
 export const getMyToDoList = async (email) => {
     try {
         const docSnap = await getDoc(doc(db, "to-do", email));
