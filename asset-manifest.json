@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/todolist-firebase/static/css/main.073c9b0a.css",
-    "main.js": "/todolist-firebase/static/js/main.28eb9e34.js",
-    "static/js/787.b4db6df4.chunk.js": "/todolist-firebase/static/js/787.b4db6df4.chunk.js",
-    "index.html": "/yourProjectName/index.html",
-    "main.073c9b0a.css.map": "/todolist-firebase/static/css/main.073c9b0a.css.map",
-    "main.28eb9e34.js.map": "/todolist-firebase/static/js/main.28eb9e34.js.map",
-    "787.b4db6df4.chunk.js.map": "/todolist-firebase/static/js/787.b4db6df4.chunk.js.map"
+    "main.css": "https://angelasyuan.github.io/todolist-firebase/static/css/main.073c9b0a.css",
+    "main.js": "https://angelasyuan.github.io/todolist-firebase/static/js/main.35c17ca5.js",
+    "static/js/787.b4db6df4.chunk.js": "https://angelasyuan.github.io/todolist-firebase/static/js/787.b4db6df4.chunk.js",
+    "index.html": "https://angelasyuan.github.io/todolist-firebase/index.html",
+    "main.073c9b0a.css.map": "https://angelasyuan.github.io/todolist-firebase/static/css/main.073c9b0a.css.map",
+    "main.35c17ca5.js.map": "https://angelasyuan.github.io/todolist-firebase/static/js/main.35c17ca5.js.map",
+    "787.b4db6df4.chunk.js.map": "https://angelasyuan.github.io/todolist-firebase/static/js/787.b4db6df4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.28eb9e34.js"
+    "static/js/main.35c17ca5.js"
   ]
 }
