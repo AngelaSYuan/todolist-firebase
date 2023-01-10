@@ -16,10 +16,10 @@ function App() {
     <div className="Root">
       <div className="App">
         <HashRouter>
-          {/* <Routes> */}
+          <Routes>
             <Route path = "/todolist-firebase" element={<Login />} />
             <Route exact path = "/todolist-firebase/home" element={<ToDoListHome />} />
-          {/* </Routes> */}
+          </Routes>
         </HashRouter>
       </div>
     </div>
